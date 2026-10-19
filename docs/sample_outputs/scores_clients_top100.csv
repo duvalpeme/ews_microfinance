@@ -1,0 +1,101 @@
+﻿loan_id,client_id,officer_id,branch_id,snapshot_date,sector,product,outstanding_est,dpd,n_late_last3,risk_score,alert_level,priority_rank,reason_1,reason_2,reason_3
+LN000850,CL00430,OF016,BR08,2025-12-31,commerce,individuel,320833.0,22,1.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 22 jours,dernier paiement il y a 53 jours
+LN011142,CL05722,OF006,BR03,2025-12-31,transport,individuel,317500.0,29,1.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 29 jours,dernier paiement il y a 61 jours
+LN007937,CL04069,OF040,BR08,2025-12-31,transport,individuel,219167.0,23,3.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 23 jours,dernier paiement il y a 44 jours
+LN006020,CL03080,OF035,BR03,2025-12-31,artisanat,individuel,213333.0,25,1.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 25 jours,dernier paiement il y a 57 jours
+LN009522,CL04886,OF039,BR06,2025-12-31,commerce,individuel,198333.0,28,2.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 28 jours,dernier paiement il y a 54 jours
+LN008299,CL04256,OF013,BR07,2025-12-31,elevage,individuel,29167.0,25,2.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 25 jours,dernier paiement il y a 53 jours
+LN009501,CL04877,OF022,BR07,2025-12-31,agriculture,agricole,21667.0,28,1.0,0.782608695652174,Rouge,1,1 échéance(s) impayée(s),retard actuel de 28 jours,dernier paiement il y a 61 jours
+LN006873,CL03525,OF020,BR07,2025-12-31,agriculture,individuel,56944.0,20,2.0,0.75,Rouge,1,1 échéance(s) impayée(s),retard actuel de 20 jours,dernière échéance avec 20 jours de retard
+LN006647,CL03407,OF005,BR03,2025-12-31,commerce,individuel,45000.0,23,1.0,0.75,Rouge,1,1 échéance(s) impayée(s),retard actuel de 23 jours,dernier paiement il y a 56 jours
+LN008341,CL04275,OF005,BR03,2025-12-31,artisanat,individuel,533333.0,27,1.0,0.6578947368421053,Rouge,2,1 échéance(s) impayée(s),retard actuel de 27 jours,dernier paiement il y a 60 jours
+LN005830,CL02988,OF038,BR05,2025-12-31,agriculture,individuel,152500.0,20,3.0,0.6578947368421053,Rouge,1,1 échéance(s) impayée(s),retard actuel de 20 jours,dernière échéance avec 20 jours de retard
+LN000341,CL00171,OF039,BR06,2025-12-31,elevage,agricole,63333.0,18,1.0,0.6578947368421053,Rouge,2,1 échéance(s) impayée(s),retard actuel de 18 jours,dernier paiement il y a 51 jours
+LN005936,CL03039,OF032,BR07,2025-12-31,agriculture,agricole,37778.0,7,2.0,0.5833333333333334,Rouge,1,1 échéance(s) impayée(s),retard actuel de 7 jours,dernière échéance avec 7 jours de retard
+LN005545,CL02837,OF014,BR07,2025-12-31,commerce,individuel,772500.0,14,2.0,0.5294117647058824,Rouge,1,1 échéance(s) impayée(s),retard actuel de 14 jours,dernière échéance avec 14 jours de retard
+LN008400,CL04307,OF008,BR04,2025-12-31,commerce,individuel,592500.0,18,2.0,0.5294117647058824,Rouge,1,1 échéance(s) impayée(s),retard actuel de 18 jours,dernière échéance avec 18 jours de retard
+LN006610,CL03391,OF039,BR06,2025-12-31,transport,individuel,422222.0,7,3.0,0.5294117647058824,Rouge,3,1 échéance(s) impayée(s),retard actuel de 7 jours,dernière échéance avec 7 jours de retard
+LN005094,CL02602,OF005,BR03,2025-12-31,commerce,individuel,325000.0,14,1.0,0.5294117647058824,Rouge,3,1 échéance(s) impayée(s),retard actuel de 14 jours,dernier paiement il y a 44 jours
+LN003365,CL01711,OF006,BR03,2025-12-31,agriculture,agricole,250000.0,7,3.0,0.5294117647058824,Rouge,2,1 échéance(s) impayée(s),retard actuel de 7 jours,dernière échéance avec 7 jours de retard
+LN009426,CL04839,OF028,BR04,2025-12-31,transport,individuel,501944.0,5,1.0,0.4222222222222222,Rouge,1,1 échéance(s) impayée(s),retard actuel de 5 jours,dernier paiement il y a 37 jours
+LN011209,CL05760,OF027,BR07,2025-12-31,agriculture,individuel,195833.0,13,2.0,0.4222222222222222,Rouge,1,1 échéance(s) impayée(s),retard actuel de 13 jours,dernier paiement il y a 37 jours
+LN005842,CL02994,OF012,BR06,2025-12-31,agriculture,agricole,76667.0,10,1.0,0.4222222222222222,Rouge,1,1 échéance(s) impayée(s),retard actuel de 10 jours,dernier paiement il y a 43 jours
+LN008201,CL04202,OF029,BR06,2025-12-31,agriculture,agricole,51667.0,13,1.0,0.4222222222222222,Rouge,1,1 échéance(s) impayée(s),retard actuel de 13 jours,dernier paiement il y a 46 jours
+LN004300,CL02191,OF028,BR04,2025-12-31,agriculture,individuel,18889.0,13,2.0,0.4222222222222222,Rouge,2,1 échéance(s) impayée(s),retard actuel de 13 jours,dernière échéance avec 13 jours de retard
+LN006432,CL03303,OF014,BR07,2025-12-31,services,individuel,256667.0,2,1.0,0.3684210526315789,Rouge,2,1 échéance(s) impayée(s),retard actuel de 2 jours,retard maximal historique de 22 jours
+LN001913,CL00973,OF005,BR03,2025-12-31,artisanat,individuel,170000.0,7,2.0,0.3684210526315789,Rouge,4,1 échéance(s) impayée(s),retard actuel de 7 jours,dernière échéance avec 7 jours de retard
+LN002246,CL01151,OF022,BR07,2025-12-31,agriculture,agricole,129167.0,12,1.0,0.3684210526315789,Rouge,2,1 échéance(s) impayée(s),retard actuel de 12 jours,dernier paiement il y a 44 jours
+LN002550,CL01301,OF017,BR01,2025-12-31,transport,individuel,127500.0,8,1.0,0.3684210526315789,Rouge,1,1 échéance(s) impayée(s),retard actuel de 8 jours,dernier paiement il y a 40 jours
+LN002135,CL01089,OF038,BR05,2025-12-31,agriculture,agricole,120833.0,9,1.0,0.3684210526315789,Rouge,2,1 échéance(s) impayée(s),retard actuel de 9 jours,dernier paiement il y a 39 jours
+LN004624,CL02357,OF012,BR06,2025-12-31,transport,individuel,93333.0,3,1.0,0.3684210526315789,Rouge,2,1 échéance(s) impayée(s),retard actuel de 3 jours,retard maximal historique de 21 jours
+LN004685,CL02392,OF014,BR07,2025-12-31,artisanat,groupe_solidaire,47500.0,11,1.0,0.3684210526315789,Rouge,3,1 échéance(s) impayée(s),retard actuel de 11 jours,dernier paiement il y a 42 jours
+LN009685,CL04967,OF007,BR04,2025-12-31,transport,individuel,22778.0,8,1.0,0.3684210526315789,Rouge,1,1 échéance(s) impayée(s),retard actuel de 8 jours,dernier paiement il y a 39 jours
+LN004311,CL02198,OF018,BR03,2025-12-31,services,individuel,546667.0,6,1.0,0.2894736842105263,Rouge,1,1 échéance(s) impayée(s),retard actuel de 6 jours,dernier paiement il y a 37 jours
+LN006904,CL03542,OF040,BR08,2025-12-31,artisanat,individuel,303333.0,5,2.0,0.2894736842105263,Rouge,2,1 échéance(s) impayée(s),retard actuel de 5 jours,dernière échéance avec 5 jours de retard
+LN010784,CL05536,OF019,BR02,2025-12-31,transport,individuel,300000.0,7,1.0,0.2894736842105263,Rouge,1,1 échéance(s) impayée(s),retard actuel de 7 jours,dernier paiement il y a 39 jours
+LN002231,CL01143,OF028,BR04,2025-12-31,transport,individuel,283333.0,6,1.0,0.2894736842105263,Rouge,3,1 échéance(s) impayée(s),retard actuel de 6 jours,dernier paiement il y a 37 jours
+LN005852,CL02998,OF008,BR04,2025-12-31,commerce,individuel,242500.0,5,1.0,0.2894736842105263,Rouge,2,1 échéance(s) impayée(s),retard actuel de 5 jours,dernière échéance avec 5 jours de retard
+LN006836,CL03507,OF017,BR01,2025-12-31,commerce,individuel,217500.0,2,1.0,0.2894736842105263,Rouge,2,1 échéance(s) impayée(s),retard actuel de 2 jours,dernier paiement il y a 33 jours
+LN004292,CL02186,OF008,BR04,2025-12-31,services,individuel,182500.0,3,1.0,0.2894736842105263,Rouge,3,1 échéance(s) impayée(s),retard actuel de 3 jours,dernier paiement il y a 36 jours
+LN002695,CL01376,OF035,BR03,2025-12-31,commerce,individuel,126250.0,4,1.0,0.2894736842105263,Rouge,2,1 échéance(s) impayée(s),retard actuel de 4 jours,dernier paiement il y a 37 jours
+LN003855,CL01952,OF028,BR04,2025-12-31,commerce,individuel,97500.0,6,1.0,0.2894736842105263,Rouge,4,1 échéance(s) impayée(s),retard actuel de 6 jours,dernier paiement il y a 36 jours
+LN008361,CL04285,OF036,BR01,2025-12-31,artisanat,individuel,76389.0,7,1.0,0.2894736842105263,Rouge,1,1 échéance(s) impayée(s),retard actuel de 7 jours,dernier paiement il y a 38 jours
+LN010922,CL05610,OF039,BR06,2025-12-31,agriculture,agricole,30000.0,6,3.0,0.2894736842105263,Rouge,4,1 échéance(s) impayée(s),retard actuel de 6 jours,dernière échéance avec 6 jours de retard
+LN004491,CL02281,OF019,BR02,2025-12-31,services,individuel,1875000.0,4,1.0,0.20588235294117646,Rouge,2,1 échéance(s) impayée(s),retard actuel de 4 jours,dernier paiement il y a 35 jours
+LN011282,CL05802,OF013,BR07,2025-12-31,services,individuel,340278.0,0,0.0,0.20588235294117646,Rouge,2,1 échéance(s) impayée(s),retard maximal historique de 18 jours,dernier paiement il y a 32 jours
+LN007441,CL03811,OF021,BR04,2025-12-31,commerce,individuel,289583.0,1,1.0,0.20588235294117646,Rouge,1,1 échéance(s) impayée(s),retard actuel de 1 jours,dernier paiement il y a 32 jours
+LN001723,CL00877,OF031,BR08,2025-12-31,agriculture,agricole,152778.0,1,1.0,0.20588235294117646,Rouge,1,1 échéance(s) impayée(s),retard actuel de 1 jours,dernier paiement il y a 34 jours
+LN005131,CL02621,OF007,BR04,2025-12-31,commerce,individuel,150000.0,2,1.0,0.20588235294117646,Rouge,2,1 échéance(s) impayée(s),retard actuel de 2 jours,dernier paiement il y a 35 jours
+LN009610,CL04932,OF011,BR06,2025-12-31,artisanat,individuel,123611.0,0,0.0,0.20588235294117646,Rouge,1,1 échéance(s) impayée(s),dernier paiement il y a 33 jours,client depuis 15 mois
+LN004407,CL02243,OF007,BR04,2025-12-31,commerce,individuel,105000.0,3,1.0,0.20588235294117646,Rouge,3,1 échéance(s) impayée(s),retard actuel de 3 jours,dernier paiement il y a 34 jours
+LN004104,CL02086,OF040,BR08,2025-12-31,artisanat,individuel,54444.0,1,1.0,0.20588235294117646,Rouge,3,1 échéance(s) impayée(s),retard actuel de 1 jours,dernier paiement il y a 33 jours
+LN003214,CL01638,OF031,BR08,2025-12-31,commerce,individuel,50000.0,2,1.0,0.20588235294117646,Rouge,2,1 échéance(s) impayée(s),retard actuel de 2 jours,dernière échéance avec 2 jours de retard
+LN009031,CL04634,OF014,BR07,2025-12-31,commerce,individuel,39167.0,2,1.0,0.20588235294117646,Rouge,4,1 échéance(s) impayée(s),retard actuel de 2 jours,dernier paiement il y a 35 jours
+LN008816,CL04514,OF004,BR02,2025-12-31,commerce,individuel,151667.0,0,0.0,0.16666666666666666,Rouge,1,1 échéance(s) impayée(s),dernier paiement il y a 34 jours,PAR30 du secteur d'activité à 31.1%
+LN011106,CL05704,OF007,BR04,2025-12-31,commerce,individuel,74444.0,0,0.0,0.16666666666666666,Rouge,4,1 échéance(s) impayée(s),dernier paiement il y a 34 jours,PAR30 du secteur d'activité à 31.1%
+LN007546,CL03871,OF001,BR01,2025-12-31,artisanat,individuel,133333.0,0,0.0,0.14285714285714285,Rouge,1,1 échéance(s) impayée(s),dernier paiement il y a 32 jours,échéance de 26 000 XAF
+LN006724,CL03447,OF019,BR02,2025-12-31,services,individuel,1843333.0,0,0.0,0.0,Rouge,3,montant du crédit de 2 370 000 XAF,échéance de 187 000 XAF,retard maximal historique de 46 jours
+LN001684,CL00856,OF034,BR01,2025-12-31,services,individuel,1666667.0,0,0.0,0.0,Rouge,1,montant du crédit de 2 500 000 XAF,échéance de 188 500 XAF,client depuis 19 mois
+LN008216,CL04211,OF021,BR04,2025-12-31,commerce,individuel,1450000.0,0,0.0,0.0,Rouge,2,montant du crédit de 2 175 000 XAF,échéance de 170 500 XAF,crédit décaissé il y a 7 mois
+LN008193,CL04198,OF005,BR03,2025-12-31,services,individuel,1362500.0,0,0.0,0.0,Rouge,5,dernier paiement il y a 31 jours,montant du crédit de 1 635 000 XAF,échéance de 122 000 XAF
+LN009538,CL04892,OF016,BR08,2025-12-31,transport,individuel,1300000.0,0,0.0,0.0,Rouge,2,montant du crédit de 2 340 000 XAF,dernier paiement il y a 30 jours,échéance de 179 000 XAF
+LN001669,CL00849,OF030,BR02,2025-12-31,services,individuel,1250000.0,0,1.0,0.0,Rouge,1,dernière échéance avec 1 jours de retard,montant du crédit de 2 500 000 XAF,échéance de 190 500 XAF
+LN004161,CL02117,OF011,BR06,2025-12-31,transport,individuel,1245833.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 725 000 XAF,échéance de 129 500 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN003433,CL01745,OF008,BR04,2025-12-31,commerce,individuel,1224167.0,0,0.0,0.0,Rouge,4,montant du crédit de 1 695 000 XAF,échéance de 129 500 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN009950,CL05104,OF035,BR03,2025-12-31,services,individuel,1195000.0,0,1.0,0.0,Rouge,3,montant du crédit de 2 390 000 XAF,échéance de 244 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN005581,CL02857,OF016,BR08,2025-12-31,transport,individuel,1170000.0,0,0.0,0.0,Rouge,3,montant du crédit de 1 620 000 XAF,échéance de 125 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN009639,CL04945,OF028,BR04,2025-12-31,transport,individuel,1162778.0,0,0.0,0.0,Rouge,5,montant du crédit de 1 495 000 XAF,échéance de 109 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN010939,CL05619,OF018,BR03,2025-12-31,services,individuel,1159167.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 605 000 XAF,échéance de 120 000 XAF,âge de 21 ans
+LN000353,CL00176,OF030,BR02,2025-12-31,transport,individuel,1133611.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 855 000 XAF,échéance de 140 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN010406,CL05345,OF002,BR01,2025-12-31,transport,individuel,1112500.0,0,0.0,0.0,Rouge,1,montant du crédit de 2 225 000 XAF,échéance de 229 000 XAF,crédit décaissé il y a 7 mois
+LN008458,CL04336,OF018,BR03,2025-12-31,transport,individuel,1038889.0,0,0.0,0.0,Rouge,3,montant du crédit de 1 700 000 XAF,échéance de 126 500 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN005300,CL02709,OF015,BR08,2025-12-31,elevage,agricole,1033333.0,0,0.0,0.0,Rouge,1,montant du crédit de 1 860 000 XAF,échéance de 129 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN010084,CL05179,OF024,BR02,2025-12-31,services,individuel,986944.0,0,1.0,0.0,Rouge,1,montant du crédit de 1 615 000 XAF,retard moyen de 2 jours sur les 3 dernières échéances,échéance de 123 000 XAF
+LN007583,CL03892,OF001,BR01,2025-12-31,commerce,individuel,983333.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 475 000 XAF,échéance de 154 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN006712,CL03441,OF034,BR01,2025-12-31,commerce,individuel,982222.0,0,0.0,0.0,Rouge,2,dernier paiement il y a 29 jours,échéance de 102 500 XAF,montant du crédit de 1 360 000 XAF
+LN010446,CL05367,OF025,BR04,2025-12-31,services,individuel,976111.0,0,0.0,0.0,Rouge,1,échéance de 95 000 XAF,PAR30 de l'agence en hausse sur 3 mois,PAR30 de l'agence à 40.6%
+LN008253,CL04232,OF018,BR03,2025-12-31,transport,individuel,967778.0,0,1.0,0.0,Rouge,4,retard moyen de 5 jours sur les 3 dernières échéances,échéance de 100 500 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN007301,CL03744,OF007,BR04,2025-12-31,commerce,individuel,946667.0,0,0.0,0.0,Rouge,5,échéance de 109 500 XAF,âge de 21 ans,crédit décaissé il y a 7 mois
+LN009188,CL04713,OF035,BR03,2025-12-31,artisanat,individuel,941111.0,0,0.0,0.0,Rouge,4,PAR30 de l'agence en hausse sur 3 mois,PAR30 du secteur d'activité à 31.7%,période saisonnière sensible
+LN010580,CL05435,OF037,BR01,2025-12-31,services,individuel,927500.0,0,0.0,0.0,Rouge,1,montant du crédit de 1 855 000 XAF,échéance de 137 000 XAF,crédit décaissé il y a 10 mois
+LN005116,CL02614,OF023,BR03,2025-12-31,commerce,individuel,921667.0,0,1.0,0.0,Rouge,1,dernière échéance avec 15 jours de retard,retard maximal de 15 jours sur les 3 dernières échéances,retard moyen de 5 jours sur les 3 dernières échéances
+LN009474,CL04864,OF026,BR01,2025-12-31,services,individuel,917778.0,0,0.0,0.0,Rouge,1,montant du crédit de 2 360 000 XAF,échéance de 175 500 XAF,crédit décaissé il y a 12 mois
+LN008257,CL04234,OF007,BR04,2025-12-31,services,individuel,916667.0,0,0.0,0.0,Rouge,6,échéance de 103 000 XAF,client depuis 20 mois,crédit décaissé il y a 7 mois
+LN007473,CL03828,OF036,BR01,2025-12-31,commerce,individuel,911944.0,0,0.0,0.0,Rouge,2,montant du crédit de 2 345 000 XAF,échéance de 178 500 XAF,crédit décaissé il y a 11 mois
+LN004083,CL02077,OF001,BR01,2025-12-31,services,individuel,906111.0,0,0.0,0.0,Rouge,3,retard maximal historique de 31 jours,PAR30 de l'agence en hausse sur 3 mois,PAR30 de l'agence à 28.5%
+LN000824,CL00417,OF025,BR04,2025-12-31,commerce,individuel,895278.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 465 000 XAF,échéance de 112 000 XAF,crédit décaissé il y a 8 mois
+LN002057,CL01047,OF033,BR06,2025-12-31,commerce,individuel,878889.0,0,0.0,0.0,Rouge,1,PAR30 de l'agence en hausse sur 3 mois,client depuis 40 mois,PAR30 de l'agence à 29.3%
+LN002940,CL01503,OF018,BR03,2025-12-31,transport,individuel,873889.0,0,0.0,0.0,Rouge,5,client depuis 20 mois,encours égal à 1.9 mois de revenu,PAR30 de l'agence en hausse sur 3 mois
+LN003151,CL01608,OF036,BR01,2025-12-31,transport,individuel,873333.0,0,2.0,0.0,Rouge,3,dernière échéance avec 4 jours de retard,2 retard(s) sur les 3 dernières échéances,50% des échéances payées en retard
+LN001799,CL00916,OF018,BR03,2025-12-31,commerce,individuel,870278.0,0,0.0,0.0,Rouge,6,PAR30 de l'agence en hausse sur 3 mois,PAR30 de l'agence à 34.1%,période saisonnière sensible
+LN002346,CL01197,OF040,BR08,2025-12-31,transport,individuel,870000.0,0,0.0,0.0,Rouge,4,échéance de 133 000 XAF,âge de 21 ans,8 échéance(s) restante(s)
+LN011131,CL05716,OF036,BR01,2025-12-31,commerce,individuel,866667.0,0,0.0,0.0,Rouge,4,échéance de 96 000 XAF,PAR30 de l'agence en hausse sur 3 mois,PAR30 du secteur d'activité à 31.1%
+LN005393,CL02760,OF008,BR04,2025-12-31,commerce,individuel,859444.0,0,0.0,0.0,Rouge,5,client depuis 13 mois,PAR30 de l'agence en hausse sur 3 mois,PAR30 de l'agence à 40.6%
+LN005728,CL02933,OF026,BR01,2025-12-31,commerce,individuel,857500.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 715 000 XAF,dernier paiement il y a 29 jours,échéance de 180 500 XAF
+LN011149,CL05726,OF021,BR04,2025-12-31,transport,individuel,856667.0,0,0.0,0.0,Rouge,3,échéance de 97 500 XAF,crédit décaissé il y a 7 mois,client depuis 45 mois
+LN008093,CL04150,OF036,BR01,2025-12-31,services,individuel,837222.0,0,0.0,0.0,Rouge,5,dernier paiement il y a 31 jours,échéance de 103 500 XAF,montant du crédit de 1 370 000 XAF
+LN011591,CL05950,OF017,BR01,2025-12-31,transport,individuel,833333.0,0,0.0,0.0,Rouge,3,période saisonnière sensible,PAR30 du secteur d'activité à 30.8%,PAR30 de l'agence à 28.5%
+LN000798,CL00405,OF034,BR01,2025-12-31,services,individuel,819722.0,0,0.0,0.0,Rouge,3,PAR30 de l'agence en hausse sur 3 mois,PAR30 du secteur d'activité à 31.6%,période saisonnière sensible
+LN002951,CL01510,OF016,BR08,2025-12-31,services,individuel,812500.0,0,0.0,0.0,Rouge,4,montant du crédit de 1 625 000 XAF,échéance de 122 000 XAF,PAR30 de l'agence en hausse sur 3 mois
+LN000709,CL00358,OF003,BR02,2025-12-31,services,individuel,805000.0,0,0.0,0.0,Rouge,1,âge de 26 ans,PAR30 de l'agence en hausse sur 3 mois,PAR30 du secteur d'activité à 31.6%
+LN004123,CL02095,OF015,BR08,2025-12-31,transport,individuel,795000.0,0,0.0,0.0,Rouge,2,montant du crédit de 1 590 000 XAF,échéance de 122 500 XAF,crédit décaissé il y a 9 mois
